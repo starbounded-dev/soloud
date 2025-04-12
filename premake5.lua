@@ -94,7 +94,6 @@ project "SoLoud"
     filter "configurations:Debug"
         defines { "DEBUG" }
         symbols "On"
-        targetsuffix "_d"
 
     filter "configurations:Release"
         defines { "NDEBUG" }

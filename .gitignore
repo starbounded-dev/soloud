@@ -36,3 +36,4 @@ glue/rpgmaker_soloud.rb
 *.lastcodeanalysissucceeded
 *.bak
 SoLoud.vcxproj
+bin-int
